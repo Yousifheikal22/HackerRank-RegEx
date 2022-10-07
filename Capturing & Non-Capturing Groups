@@ -1,0 +1,1 @@
+$Regex_Pattern = "/\b(ok?){3,}\b/";
